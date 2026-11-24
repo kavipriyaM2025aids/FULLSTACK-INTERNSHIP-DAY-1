@@ -73,7 +73,3 @@ Resume-Website/
 - GitHub: https://github.com/kavipriyaM2025aids
 - LinkedIn: https://www.linkedin.com/in/kavipriya-murugan-5190b9380/
 
----
-
-Developed by **Kavipriya M**  
-B.Tech Artificial Intelligence & Data Science Student
